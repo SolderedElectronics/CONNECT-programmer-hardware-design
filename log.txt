@@ -69,3 +69,38 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Komunikacija-yellow/LIN Transceiver NCV7329 MASTER breakout to LIN-Transceiver-NCV7329-MASTER-breakout-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Komunikacija-yellow/CONNECT programmer/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main b16a54f] Updating open source files.
+ 1 file changed, 70 insertions(+)
+https://github.com/SolderedElectronics/CONNECT-programmer-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/RS-232 Transceiver breakout/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of zips 0
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/LIN Transceiver NCV7329 MASTER breakout/OUTPUTS/V1.1.1: all files are present, commiting...
+LIN-Transceiver-NCV7329-MASTER-breakout-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Komunikacija-yellow/LIN Transceiver NCV7329 MASTER breakout to LIN-Transceiver-NCV7329-MASTER-breakout-hardware-design
+https://github.com/SolderedElectronics/CONNECT-programmer-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/RS-232 Transceiver breakout/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of zips 0
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/LIN Transceiver NCV7329 MASTER breakout/OUTPUTS/V1.1.1: all files are present, commiting...
+LIN-Transceiver-NCV7329-MASTER-breakout-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Komunikacija-yellow/LIN Transceiver NCV7329 MASTER breakout to LIN-Transceiver-NCV7329-MASTER-breakout-hardware-design
+https://github.com/SolderedElectronics/CONNECT-programmer-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/RS-232 Transceiver breakout/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of zips 0
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/LIN Transceiver NCV7329 MASTER breakout/OUTPUTS/V1.1.1: all files are present, commiting...
+LIN-Transceiver-NCV7329-MASTER-breakout-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Komunikacija-yellow/LIN Transceiver NCV7329 MASTER breakout to LIN-Transceiver-NCV7329-MASTER-breakout-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Komunikacija-yellow/CONNECT programmer/.git/
